@@ -12,3 +12,4 @@ gunicorn
 openpyxl
 stripe
 django-allauth
+jazzmin
